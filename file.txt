@@ -1,2 +1,3 @@
 Hello in test
 Added content
+Testing whether DO101 could be done without BYOD!
